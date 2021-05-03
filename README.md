@@ -1,8 +1,8 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://raw.githubusercontent.com/waleedrehman31/waleedrehman31/main/readme_header.png "Header")](https://wr-portfolio.tk)
+[![Header](https://raw.githubusercontent.com/waleedrehman31/waleedrehman31/master/readme_header.png "Header")](https://wr-portfolio.tk)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/waleedrehman31/waleedrehman31/main/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/waleedrehman31/waleedrehman31/master/wave.gif" width="30px">
 
 My name is Waleed ur Rehman and I'm a Web Developer/DevOps engineer. I'm from Pakistan currently studing bachalors in computer science. You can find me on [![LinkedIn][3.2]][3].
 
