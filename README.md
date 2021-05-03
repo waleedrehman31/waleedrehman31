@@ -27,7 +27,8 @@ My name is Waleed ur Rehman and I'm a Web Developer/DevOps engineer. I'm from Pa
 <a href="https://github.com/waleedrehman31/waleedrehman31">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=waleedrehman31&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="waleedrehman's GitHub Stats" />
 </a>
-
+<br></br>
+<br></br>
 <a href="https://github.com/waleedrehman31/MERN-STACK-APP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=waleedrehman31&repo=MERN-STACK-APP&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
