@@ -5,7 +5,9 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/waleedrehman31/waleedrehman31/master/wave.gif" width="30px">
 
 <table><tr><td>
-My name is Waleed ur Rehman and I'm a Web Developer/DevOps engineer. I'm from Pakistan currently studing bachalors in computer science. </td></tr></table>
+My name is Waleed ur Rehman and I'm a Web Developer/Programmer. I'm from Pakistan currently studing bachalors in computer science. 
+I love to learn about computing and programming relative stuff.
+</td></tr></table>
 You can find me on[![LinkedIn][3.2]][3].
 
 ---
