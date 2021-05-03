@@ -24,8 +24,12 @@ You can find me on[![LinkedIn][3.2]][3].
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat-square&logo=dart&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat-square&logo=flutter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat-square&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Deployment-Netlify-informational?style=flat-square&logo=netlify&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Deployment-Heroku-informational?style=flat-square&logo=heroku&logoColor=white&color=2bbc8a)
 
 ---
 
