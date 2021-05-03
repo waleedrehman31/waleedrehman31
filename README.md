@@ -16,8 +16,8 @@ You can find me on[![LinkedIn][3.2]][3].
 
 ![](https://img.shields.io/badge/OS-Window-informational?style=flat-square&logo=windows&logoColor=white&color=33ACFF)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=33ACFF)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=DDFF33)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=DDFF33)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=E8DF23)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=E8DF23)
 ![](https://img.shields.io/badge/Code-C/C++-informational?style=flat-square&logo=C&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat-square&logo=html5&logoColor=white&color=2bbc8a)
