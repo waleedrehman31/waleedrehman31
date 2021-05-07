@@ -30,6 +30,7 @@ You can find me on[![LinkedIn][3.2]][3].
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=FFAC33)
 ![](https://img.shields.io/badge/Deployment-Netlify-informational?style=flat-square&logo=netlify&logoColor=white&color=49FF33)
 ![](https://img.shields.io/badge/Deployment-Heroku-informational?style=flat-square&logo=heroku&logoColor=white&color=49FF33)
+![](https://img.shields.io/badge/Deployment-Digital Ocean-informational?style=flat-square&logo=digital-ocean&logoColor=white&color=49FF33)
 
 ---
 
