@@ -30,14 +30,14 @@ You can find me on[![LinkedIn][3.2]][3].
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=FFAC33)
 ![](https://img.shields.io/badge/Deployment-Netlify-informational?style=flat-square&logo=netlify&logoColor=white&color=49FF33)
 ![](https://img.shields.io/badge/Deployment-Heroku-informational?style=flat-square&logo=heroku&logoColor=white&color=49FF33)
-![](https://img.shields.io/badge/Deployment-Digital Ocean-informational?style=flat-square&logo=digital-ocean&logoColor=white&color=49FF33)
+![](https://img.shields.io/badge/Deployment-Digital_Ocean-informational?style=flat-square&logo=digitalocean&logoColor=white&color=49FF33)
 
 ---
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/waleedrehman31/waleedrehman31">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleedrehman31&hide=java,html,python,fluttertex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleedrehman31&hide=tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/waleedrehman31/waleedrehman31">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=waleedrehman31&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="waleedrehman's GitHub Stats" />
