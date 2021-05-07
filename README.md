@@ -46,8 +46,8 @@ You can find me on[![LinkedIn][3.2]][3].
 
 ## :octocat: Special Repo
 
- <a href="https://github.com/waleedrehman31/MERN-STACK-APP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=waleedrehman31&repo=MERN-STACK-APP&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+ <a href="https://github.com/waleedrehman31/learning-flutter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=waleedrehman31&repo=learning-flutter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/waleedrehman31/Learn-Python">
