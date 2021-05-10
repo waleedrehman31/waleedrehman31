@@ -8,7 +8,7 @@
 My name is Waleed ur Rehman and I'm a Web Developer/Programmer. I'm from Pakistan currently studing bachalors in computer science. 
 I love to learn about computing and programming relative stuff.
 </td></tr></table>
-You can find me on[![LinkedIn][3.2]][3].
+You can find me on[![LinkedIn][3.3]][3].
 
 ---
 
@@ -28,6 +28,8 @@ You can find me on[![LinkedIn][3.2]][3].
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat-square&logo=flutter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat-square&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=FFAC33)
+![](https://img.shields.io/badge/Database-Mongo_DB-informational?style=flat-square&logo=mongodb&logoColor=white&color=6495ED)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=6495ED)
 ![](https://img.shields.io/badge/Deployment-Netlify-informational?style=flat-square&logo=netlify&logoColor=white&color=49FF33)
 ![](https://img.shields.io/badge/Deployment-Heroku-informational?style=flat-square&logo=heroku&logoColor=white&color=49FF33)
 ![](https://img.shields.io/badge/Deployment-Digital_Ocean-informational?style=flat-square&logo=digitalocean&logoColor=white&color=49FF33)
@@ -60,7 +62,7 @@ You can find me on[![LinkedIn][3.2]][3].
 <!-- icons without padding -->
 
 [2.2]: http://i.imgur.com/9I6NRUm.png "github icon without padding"
-[3.2]: https://raw.githubusercontent.com/waleedrehman31/waleedrehman31/master/linkedin-3-16.png "LinkedIn icon without padding"
+[3.3]: https://raw.githubusercontent.com/waleedrehman31/waleedrehman31/master/linkedin-3-16.png "LinkedIn icon without padding"
 
 <!-- links to your social media accounts -->
 
