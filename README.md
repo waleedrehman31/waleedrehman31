@@ -13,34 +13,36 @@ I love to learn about computing and programming relative stuff.
 ---
 ## You Can Find Me On
 
-[![](https://img.shields.io/badge/Connect_Me-LinkedIn-informational?style=flat-square&logo=linkedin&logoColor=white&color=28549B)][2]
-[![](https://img.shields.io/badge/Connect_Me-Facebook-informational?style=flat-square&logo=facebook&logoColor=white&color=28549B)][3]
+[![](https://img.shields.io/badge/Connect_Me-LinkedIn-informational?style=flat-square&logo=linkedin&logoColor=28549B&color=28549B)][2]
+[![](https://img.shields.io/badge/Connect_Me-Facebook-informational?style=flat-square&logo=facebook&logoColor=28549B&color=28549B)][3]
+[![](https://img.shields.io/badge/Connect_Me-Stack_Over_Flow-informational?style=flat-square&logo=stackoverflow&logoColor=F9AE07&color=F9AE07)][4]
 
 
 ---
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Window-informational?style=flat-square&logo=windows&logoColor=white&color=33ACFF)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=33ACFF)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=E54949)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=E54949)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat-square&logo=PyCharm&logoColor=white&color=E54949)
-![](https://img.shields.io/badge/Code-C/C++-informational?style=flat-square&logo=C&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat-square&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat-square&logo=dart&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat-square&logo=flutter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat-square&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Window-informational?style=flat-square&logo=windows&logoColor=blue&color=33ACFF)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat-square&logo=ubuntu&logoColor=orange&color=orange)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat-square&logo=visual-studio-code&logoColor=blue&color=blue)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=black&color=black)
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat-square&logo=PyCharm&logoColor=black&color=black)
+![](https://img.shields.io/badge/Code-C/C++-informational?style=flat-square&logo=c&logoColor=00599C&color=00599C)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=FFE873&color=FFE873)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat-square&logo=html5&logoColor=e34c26&color=e34c26)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat-square&logo=css3&logoColor=264de4&color=264de4)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=f0db4f&color=f0db4f)
+![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&logoColor=61DBFB&color=61DBFB)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat-square&logo=dart&logoColor=0075BA&color=0075BA)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat-square&logo=flutter&logoColor=blue&color=blue)
+![](https://img.shields.io/badge/Code-Make-informational?style=flat-square&logo=cmake&logoColor=064F8C&color=064F8C)
+![](https://img.shields.io/badge/Runtime-NodeJS-informational?style=flat-square&logo=node.js&logoColor=339933&color=339933)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=FFAC33)
-![](https://img.shields.io/badge/Database-Mongo_DB-informational?style=flat-square&logo=mongodb&logoColor=white&color=6495ED)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=6495ED)
-![](https://img.shields.io/badge/Deployment-Netlify-informational?style=flat-square&logo=netlify&logoColor=white&color=49FF33)
-![](https://img.shields.io/badge/Deployment-Heroku-informational?style=flat-square&logo=heroku&logoColor=white&color=49FF33)
-![](https://img.shields.io/badge/Deployment-Digital_Ocean-informational?style=flat-square&logo=digitalocean&logoColor=white&color=49FF33)
+![](https://img.shields.io/badge/Database-Mongo_DB-informational?style=flat-square&logo=mongodb&logoColor=green&color=green)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat-square&logo=mysql&logoColor=D39918&color=D39918)
+![](https://img.shields.io/badge/Deployment-Netlify-informational?style=flat-square&logo=netlify&logoColor=00C7B7&color=00C7B7)
+![](https://img.shields.io/badge/Deployment-Heroku-informational?style=flat-square&logo=heroku&logoColor=430098&color=430098)
+![](https://img.shields.io/badge/Deployment-Digital_Ocean-informational?style=flat-square&logo=digitalocean&logoColor=0080FF&color=0080FF)
 
 ---
 
@@ -69,4 +71,5 @@ I love to learn about computing and programming relative stuff.
 
 [1]: https://github.com/waleedrehman31
 [2]: https://www.linkedin.com/in/waleed-ur-rehman-32349a195/
-[3]: https://www.linkedin.com/in/waleed-ur-rehman-32349a195/
+[3]: https://www.facebook.com/wAlEeDrEhMa/
+[4]: https://stackoverflow.com/users/15337506/waleed-ur-rehman?tab=profile
