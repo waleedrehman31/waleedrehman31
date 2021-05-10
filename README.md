@@ -8,7 +8,14 @@
 My name is Waleed ur Rehman and I'm a Web Developer/Programmer. I'm from Pakistan currently studing bachalors in computer science. 
 I love to learn about computing and programming relative stuff.
 </td></tr></table>
-You can find me on[![LinkedIn][3.3]][3].
+
+
+---
+## You Can Find Me On
+
+[![](https://img.shields.io/badge/Connect_Me-LinkedIn-informational?style=flat-square&logo=linkedin&logoColor=white&color=28549B)][2]
+[![](https://img.shields.io/badge/Connect_Me-Facebook-informational?style=flat-square&logo=facebook&logoColor=white&color=28549B)][3]
+
 
 ---
 
@@ -58,14 +65,8 @@ You can find me on[![LinkedIn][3.3]][3].
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=waleedrehman31&repo=Learn-Python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-[2.1]: http://i.imgur.com/0o48UoR.png "github icon with padding"
-
-<!-- icons without padding -->
-
-[2.2]: http://i.imgur.com/9I6NRUm.png "github icon without padding"
-[3.3]: https://raw.githubusercontent.com/waleedrehman31/waleedrehman31/master/linkedin-3-16.png "LinkedIn icon without padding"
-
 <!-- links to your social media accounts -->
 
-[2]: https://github.com/waleedrehman31
+[1]: https://github.com/waleedrehman31
+[2]: https://www.linkedin.com/in/waleed-ur-rehman-32349a195/
 [3]: https://www.linkedin.com/in/waleed-ur-rehman-32349a195/
