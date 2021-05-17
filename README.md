@@ -49,7 +49,7 @@ I love to learn about computing and programming relative stuff.
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/waleedrehman31/waleedrehman31">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleedrehman31&hide=css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleedrehman31&langs_count=20a&hide=css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/waleedrehman31/waleedrehman31">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=waleedrehman31&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="waleedrehman's GitHub Stats" />
