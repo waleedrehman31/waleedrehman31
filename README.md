@@ -43,6 +43,8 @@ I love to learn about computing and programming relative stuff.
 ![](https://img.shields.io/badge/Deployment-Netlify-informational?style=flat-square&logo=netlify&logoColor=00C7B7&color=00C7B7)
 ![](https://img.shields.io/badge/Deployment-Heroku-informational?style=flat-square&logo=heroku&logoColor=430098&color=430098)
 ![](https://img.shields.io/badge/Deployment-Digital_Ocean-informational?style=flat-square&logo=digitalocean&logoColor=0080FF&color=0080FF)
+![](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat-square&logo=vercel&logoColor=black&color=black)
+
 
 ---
 
