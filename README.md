@@ -7,7 +7,7 @@
 <table><tr><td>
 I’m a web developer. I spend my whole day, practically every day, experimenting with HTML, CSS, JavaScript, and more. I enjoy work that challenges me to learn something new and stretch in a different direction. 
   
-I currently studing bachelor in Computer Science.
+I currently studying bachelor's in Computer Science.
 </td></tr></table>
 
 
