@@ -19,7 +19,7 @@ I currently studying bachelor's in Computer Science.
 [![](https://img.shields.io/badge/Connect_Me-Stack_Over_Flow-informational?style=flat-square&logo=stackoverflow&logoColor=F9AE07&color=F9AE07)][4]
 
 ## Portfolio/Personal Webpage
-[waleedrehman31.github.io](https://waleedrehman31.github.io/)
+<table><tr><td> [waleedrehman31.github.io](https://waleedrehman31.github.io/) </td></tr></table>
 ---
 
 ## 🔧 Technologies & Tools
