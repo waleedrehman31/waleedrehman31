@@ -38,6 +38,7 @@ I currently studying bachelor's in Computer Science.
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat-square&logo=dart&logoColor=0075BA&color=0075BA)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat-square&logo=flutter&logoColor=blue&color=blue)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat-square&logo=cmake&logoColor=064F8C&color=064F8C)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat-square&logo=django&logoColor=green&color=green)
 ![](https://img.shields.io/badge/Runtime-NodeJS-informational?style=flat-square&logo=node.js&logoColor=339933&color=339933)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=FFAC33)
 ![](https://img.shields.io/badge/Database-Mongo_DB-informational?style=flat-square&logo=mongodb&logoColor=green&color=green)
