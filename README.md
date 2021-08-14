@@ -5,7 +5,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/waleedrehman31/waleedrehman31/master/wave.gif" width="30px">
 
 <table><tr><td>
-I’m a web developer. I spend my whole day, practically every day, experimenting with HTML, CSS, JavaScript, and more. I enjoy work that challenges me to learn something new and stretch in a different direction. 
+I’m a full stack web developer and graphic designer. I spend my whole day to create and enhance my skills, experimenting with HTML, CSS, JavaScript, and trying new frameworks and libraries. I enjoy work that challenges me to learn something new and stretch in a different direction. 
   
 I currently studying bachelor's in Computer Science.
 </td></tr></table>
