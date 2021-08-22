@@ -19,7 +19,7 @@ I currently studying bachelor's in Computer Science.
 [![](https://img.shields.io/badge/Connect_Me-Stack_Over_Flow-informational?style=flat-square&logo=stackoverflow&logoColor=F9AE07&color=F9AE07)][4]
 
 ### Portfolio/Personal Webpage
-- [Waleed ur Rehman](https://wr-porfolio.tk)
+- [Waleed ur Rehman](https://wr-portfolio.tk/)
 ---
 
 ## 🔧 Technologies & Tools
