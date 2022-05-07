@@ -32,7 +32,7 @@ Skills: C++ / JavaScript / Python / React / Flutter / MongoDB / Git / NodeJS / B
 [<img align="left" alt="Waleed ur Rehman | Facebook" width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />][facebook]
 [<img align="left" alt="Waleed ur Rehman | StackOverFlow" width="28px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" />][stackoverflow]
 <!-- [<img align="left" alt="Waleed ur Rehman | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" />][whatsapp] -->
-<!-- [<img align="left" alt="Waleed ur Rehman | Medium" width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium] -->
+[<img align="left" alt="Waleed ur Rehman | Medium" width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
 <br />
 <br />
 
@@ -40,7 +40,7 @@ Skills: C++ / JavaScript / Python / React / Flutter / MongoDB / Git / NodeJS / B
 ### :wrench: Technologies & Tools
 
 [<img align="left" alt=“JavaScript” width="26px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />][javascript]
-[<img align="left" alt=“C++” width="52px" src="https://img.shields.io/badge/Code-C/C++-informational?style=flat-square&logo=c" />][]
+[<img align="left" alt=“C++” width="52px" src="https://img.shields.io/badge/Code-C/C++-informational?style=flat-square&logo=c" />][cpp]
 [<img align="left" alt=“Python” width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />][python]
 [<img align="left" alt=“PHP” width="26px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" />][php]
 [<img align="left" alt=“Laravel” width="26px" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" />][laravel]
@@ -50,7 +50,6 @@ Skills: C++ / JavaScript / Python / React / Flutter / MongoDB / Git / NodeJS / B
 [<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][firebase]
 [<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][dart]
 [<img align="left" alt=“VSCode” width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />][vscode]
-
 <br />
 <br />
 
@@ -93,6 +92,7 @@ Skills: C++ / JavaScript / Python / React / Flutter / MongoDB / Git / NodeJS / B
 [linkedin]: https://www.linkedin.com/in/waleed-ur-rehman/
 [facebook]: https://www.facebook.com/wAlEeDrEhMa/
 [stackoverflow]: https://stackoverflow.com/users/15337506/waleed-ur-rehman?tab=profile
+[medium]: https://waleedrehman31.medium.com/
 [mail]: mailto:waleedrehman31@gmail.com
 [flutter]: https://flutter.dev
 [dart]: https://dart.dev
@@ -104,6 +104,7 @@ Skills: C++ / JavaScript / Python / React / Flutter / MongoDB / Git / NodeJS / B
 [nodejs]: https://nodejs.org/
 [reactjs]: https://reactjs.org/
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[cpp]: https://cpp.org
 
 
 <!--  Extra -->
