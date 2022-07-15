@@ -87,7 +87,7 @@ Skills: C++ / JavaScript / Python / React / Flutter / MongoDB / Git / NodeJS / B
 
 <!-- links to your social media accounts -->
 
-[website]: https://wr-portfolio.tk/
+[website]: https://portfolio-waleedrehman31.vercel.app/
 [github]: https://github.com/waleedrehman31
 [linkedin]: https://www.linkedin.com/in/waleed-ur-rehman/
 [facebook]: https://www.facebook.com/wAlEeDrEhMa/
