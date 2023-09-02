@@ -10,7 +10,7 @@ I'm **Waleed ur Rehman**, a dedicated Full Stack Software Developer with a passi
 - 🌐 My curiosity knows no bounds; I explore technologies like Asp.Net, React, and Node.js to enhance my skill set.
 - 💾 Databases are my playground—Firebase, MSSQL, MySQL, and MongoDB are tools I wield to store and manage data efficiently.
 
-### Embracing Challenges
+### Embracing Challenges  
 
 - 🏆 Beyond academic pursuits, I've achieved certifications that include IBM Full Stack Software Developer Professional, Asp.Net for Experienced Developers, and Google IT Support Specialist.
 - 💡 My journey is fueled by a fervent love for problem-solving, leadership, and a constant quest for knowledge.
