@@ -1,5 +1,8 @@
-## Greetings, Fellow Coders! 👋
+## Greetings, Fellow Coders! <img src="./images/wave.gif" width="35px" height="35px" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waleedrehman31&label=Profile%20views&color=5404cd&style=flat" alt="waleedrehman31" /> </p>
+
+
+<img src="./images/header-pic.jpg">
 
 I'm **Waleed ur Rehman**, a dedicated Full Stack Software Developer with a passion for crafting seamless web and mobile experiences. As I approach the culmination of my computer science bachelor's degree, my journey into the realms of technology continues to evolve.
 
