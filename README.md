@@ -9,8 +9,8 @@ I'm **Waleed ur Rehman**, a dedicated Full Stack Software Developer with a passi
 ### Exploring Boundaries
 
 - 🎓 Currently in my final year of studies, I'm eagerly pursuing a degree in computer science to solidify my foundation.
-- 🚀 My expertise lies in harnessing the power of PHP/Laravel for robust web development and Flutter for creating dynamic mobile apps.
-- 🌐 My curiosity knows no bounds; I explore technologies like Asp.Net, React, and Node.js to enhance my skill set.
+- 🚀 My expertise lies in harnessing the power of PHP/Laravel, React, and Node.js for robust web development and Flutter for creating dynamic mobile apps.
+- 🌐 My curiosity knows no bounds; I explore technologies like Asp.Net to enhance my skill set.
 - 💾 Databases are my playground—Firebase, MSSQL, MySQL, and MongoDB are tools I wield to store and manage data efficiently.
 
 ### Embracing Challenges  
@@ -29,3 +29,5 @@ I'm **Waleed ur Rehman**, a dedicated Full Stack Software Developer with a passi
 - 💬 Feel free to strike up a conversation about development, leadership, travel, or your favorite video game. The possibilities are endless!
 
 Looking ahead, I'm excited to journey alongside fellow developers, innovators, and creators, all united by our shared passion for technology. Let's make an impact, one line of code at a time! 😄
+
+- 👀 Want to see my progress [Company Github Profile](https://github.com/Waleed-Rehman) 
